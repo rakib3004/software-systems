@@ -1,4 +1,4 @@
-package JavaExamples;
+package src.JavaExamples;
 
 import java.util.ArrayList;
 import java.util.List;
