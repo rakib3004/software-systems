@@ -26,6 +26,9 @@ interface Exportable {
 }
 
 // Interface 6
+// Interface 6
+// Interface 6
+// Interface 6
 interface Downloadable {
     void download();
 }
