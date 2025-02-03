@@ -170,5 +170,9 @@ public class Main {
         laptop.sell();
         laptop.print();
         laptop.log();
+
+        circle.draw();
+        circle.print();
+        circle.log();
     }
 }
