@@ -26,6 +26,9 @@ interface Exportable {
 }
 
 // Interface 6
+// Interface 6
+// Interface 6
+// Interface 6
 interface Downloadable {
     void download();
 }
@@ -167,5 +170,9 @@ public class Main {
         laptop.sell();
         laptop.print();
         laptop.log();
+
+        circle.draw();
+        circle.print();
+        circle.log();
     }
 }
